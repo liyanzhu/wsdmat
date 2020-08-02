@@ -1,0 +1,61 @@
+.casetop div {
+  width: 150px;
+  height: 87px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+.casetop h1{
+  color: white;
+  font-size: 34px;
+}
+.casetop h2{
+  color: white;
+  font-size: 24px;
+}
+.casetitle {
+  height: 600px;
+  padding-top: 50px;
+}
+.casetitle .top{
+  font-size: 14px;
+}
+.casetitle .catil {
+  margin-top: 50px;
+}
+.casetitle .catil li{
+  margin-top: 10px;
+  width: 1000px;
+  height: 60px;
+  color: #1e82e8;
+  font-size: 20px;
+  line-height: 20px;
+  border-bottom: 1px solid #eaeaea;
+  cursor: pointer;
+}
+.casetitle .paging {
+  margin-top: 30px;
+  width: 300px;
+  height: 20px;
+}
+.casetitle .paging .num {
+  display: inline-block;
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+  background-color: #fff;
+  border: 1px solid #595959;
+}
+.casetitle .paging .num:nth-of-type(1) {
+  background-color: #595959;
+}
+.casetitle .paging .page {
+  display: inline-block;
+  width: 60px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #595959;
+}

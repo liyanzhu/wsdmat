@@ -1,0 +1,71 @@
+.entertop {
+  margin-top: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 220px;
+  background-image: url('../imgs/entertop.png');
+}
+.entercon {
+  width: 100%;
+  height: 900px;
+}
+.entercon .aboutus {
+  margin-top: -71px;
+  margin-left: 100px;
+  float: left;
+  width: 290px;
+  height: 282px;
+  background-color: #eaeaea;
+  overflow: hidden;
+}
+.entercon .aboutus div:nth-child(1) {
+  width: 270px;
+  height: 56px;
+  background-color: #227dd8;
+  font-size: 22px;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 0 5px 20px;
+}
+.entercon .aboutus a {
+  display: block;
+  width: 100%;
+  height: 55px;
+  line-height: 55px;
+  font-size: 14px;
+  margin-left: 30px;
+}
+.entercon .aboutus a:nth-of-type(1) {
+  color: #1e73be;
+}
+.entercon .aboutus .line {
+  width: 150px;
+  border: 1px solid #d6d6d6;
+  margin-left: 30px;
+}
+.entercon .brief {
+  float: right;
+  width: 900px;
+  height: 1000px;
+  margin-right: 100px;
+}
+.entercon .brief .top {
+  font-size: 14px;
+  color: #666;
+  margin-top: 20px;
+}
+.entercon .brief h1 {
+  font-size: 28px;
+  color: #292929;
+  padding: 20px 0;
+}
+.entercon .brief > span {
+  color: black;
+  font-size: 14px;
+  line-height: 30px;
+}
+.entercon .brief > img {
+  width: 900px;
+  height: 400px;
+  margin-top: 100px;
+}
