@@ -18,6 +18,12 @@
 }
 .tecon {
   overflow: hidden;
+  height: 848px;
+  width: 900px;
+}
+.teamcon .item {
+  float: left;
+  width: 900px;
   height: 900px;
 }
 .teamcon .line {
