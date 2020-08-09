@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  height: 120vh;
+}
+.main ul{
+  width: 100%;
+  height: 5rem;
+  line-height: 5rem;
+}
+.main ul li {
+  float: left;
+}
+.main .us {
+  width: 96%;
+  height: 26.25rem;
+  margin: 0 auto 2rem;
+  font-size: 15px;
+  color: black;
+  line-height: 30px;
+}
+.main h1  {
+  color: black;
+  margin-bottom: 2rem;
+}
+.main img {
+  width: 100%;
+  height: 12rem;
+}
