@@ -13,7 +13,7 @@
 .header .shouye .daohang {
   position: absolute;
   width: 100%;
-  height: 21rem;
+  height: 22rem;
   top: -22rem;
   background-color: #1e82e8;
 }
@@ -27,11 +27,23 @@
   border-bottom: 1px solid #eaeaea;
 }
 
-
-.swiper {
+.swi {
   width: 100%;
+  overflow: hidden;
+}
+.swip {
+  width: 400%;
   height: 9rem;
 }
+.swiper {
+  width: 25%;
+  height: 9rem;
+  float: left;
+  display: block;
+}
+
+
+
 .product {
   height: 38rem;
   padding-top: 3rem;

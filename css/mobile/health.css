@@ -24,7 +24,10 @@
 .health .item {
   padding: 1rem 2rem;
   height: 3rem;
-  color: #666;
+  color: #000;
+}
+.health .item h2 {
+  font-weight: normal;
 }
 .health .item .line {
   width: 90%;
